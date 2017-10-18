@@ -1,0 +1,13 @@
+urxvt*font: xft:Bitstream Vera Sans Mono:size=7
+urxvt*termName: rxvt
+urxvt*background: #000000
+urxvt*foreground: #ffffff
+urxvt*scrollBar: false
+
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: full
+
+URxvt.transparent: true
+URxvt.tintColor: white
+URxvt.shading: 20 
